@@ -11,6 +11,6 @@ Warning, I hard coded the screen resolution! Not production ready.
 
 Credit to:
 [Ian Taylor](http://www.chilliant.com/rgb2hsv.html)
-[Patrick Hebron](Patrick Hebron) https://gist.github.com/Hebali/6ebfc66106459aacee6a9fac029d0115
+[Patrick Hebron](https://gist.github.com/Hebali/6ebfc66106459aacee6a9fac029d0115)
 
 [![AR Image Segmentation](https://img.youtube.com/vi/kTc5CkWYrmU/0.jpg)](https://youtu.be/kTc5CkWYrmU)
